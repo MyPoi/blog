@@ -3,8 +3,8 @@ title: Jdbc的起步
 date: 
 tags: [java,jdbc]
 categories: [java]
-top_img: https://raw.githubusercontent.com/MyPoi/cloudimg/master/img14.png
-cover:  https://raw.githubusercontent.com/MyPoi/cloudimg/master/img14.png
+top_img: https://cdn.jsdelivr.net/gh/MyPoi/cloudimg/img10.png
+cover:  https://cdn.jsdelivr.net/gh/MyPoi/cloudimg/img10.png
 ---
 
 # JDBC
